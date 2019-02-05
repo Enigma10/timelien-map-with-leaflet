@@ -1,6 +1,6 @@
 # timelien-map-with-leaflet
-create timeline map using leaflet.js
+Implemeted a timeline series map using leaflet.js
 
 ## Todo
-* add points given user input
-* add multilayer data
+- [ ] add points given user input
+- [ ] add multilayer data
